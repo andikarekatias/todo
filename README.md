@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# This repository is my personal learning project for building a to-do app with React, TypeScript, and Vite.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
